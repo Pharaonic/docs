@@ -9,7 +9,7 @@ tiles:
   - key: packages
     label: Packages Built Together
   - key: technologies
-    label: Technologies
+    label: Technologies (test)
 ---
 
 Meet the talented developers who make Pharaonic packages possible. Every contribution, big or small, makes a difference.
