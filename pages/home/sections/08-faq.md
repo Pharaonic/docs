@@ -15,7 +15,7 @@ Yes. Every Pharaonic package is free and open source under {stats.licenseText}, 
 
 ## How do I install a package?
 
-Every package installs with a single Composer command, for example `composer require pharaonic/laravel-readable`. The exact command, requirements, and setup steps are on each package's page in the [catalog](/packages).
+Every package installs with a single Composer command, for example `composer require pharaonic/laravel-readable`. The exact command, requirements, and setup steps are on each package's page in the [packages](/packages).
 
 ## Which PHP versions are supported?
 
