@@ -19,7 +19,7 @@ Every package installs with a single Composer command, for example `composer req
 
 ## Which PHP versions are supported?
 
-Packages support PHP 7.2 and above. Each package's page lists its exact PHP requirement.
+Packages support PHP 8.0 and above. Each package's page lists its exact PHP requirement.
 
 ## Which Laravel versions are supported?
 
