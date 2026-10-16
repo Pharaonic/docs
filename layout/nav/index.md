@@ -13,6 +13,9 @@ links:
   - label: Packages
     href: route:packages.index
     active: packages.*
+  - label: Guides
+    href: route:guides.index
+    active: guides.*
   - label: Contributors
     href: route:contributors.index
     active: contributors.*
