@@ -1,8 +1,8 @@
 ---
 action:
   label: Community
-  href: https://discord.gg/XQG9RhvEvf
-  icon: discord
+  href: https://github.com/orgs/Pharaonic/discussions
+  icon: chat
 
 seo:
   title: Pharaonic - Rooted in History, Engineering the Future

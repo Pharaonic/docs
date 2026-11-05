@@ -9,9 +9,15 @@ methods:
     label: github.com/pharaonic
     href: https://github.com/pharaonic
     external: true
+  - icon: chat
+    title: GitHub Community
+    text: Ask questions and share ideas
+    label: GitHub Discussions
+    href: https://github.com/orgs/Pharaonic/discussions
+    external: true
   - icon: discord
-    title: Community
-    text: Join our Discord server
+    title: Discord
+    text: Chat with us in real time
     label: Join Discord
     href: https://discord.gg/XQG9RhvEvf
     external: true

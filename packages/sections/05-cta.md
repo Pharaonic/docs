@@ -7,8 +7,8 @@ buttons:
     style: primary
     icon: arrow-right
     external: true
-  - label: Join Discord
-    href: https://discord.gg/XQG9RhvEvf
+  - label: Join the Community
+    href: https://github.com/orgs/Pharaonic/discussions
     style: ghost
     external: true
 ---

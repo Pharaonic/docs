@@ -8,7 +8,7 @@ facts:
   - "Install any package with `composer require pharaonic/<package>`; each package page lists the exact command and requirements."
   - "Packages are grouped by technology: {technologies}."
   - "Total downloads: {stats.downloads}+; GitHub stars: {stats.stars}+."
-  - "Support: GitHub issues on each repository or Discord (https://discord.gg/XQG9RhvEvf)."
+  - "Support: GitHub issues on each repository, GitHub Discussions (https://github.com/orgs/Pharaonic/discussions) for questions, or Discord (https://discord.gg/XQG9RhvEvf) for real-time chat."
 
 pages:
   - title: Packages catalog
@@ -31,7 +31,10 @@ links:
   - title: Packagist
     href: https://packagist.org/packages/pharaonic/
     description: Composer package listings and download stats.
+  - title: GitHub Discussions
+    href: https://github.com/orgs/Pharaonic/discussions
+    description: Community questions, ideas and announcements.
   - title: Discord
     href: https://discord.gg/XQG9RhvEvf
-    description: Community chat and help.
+    description: Real-time community chat.
 ---

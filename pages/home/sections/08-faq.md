@@ -31,4 +31,4 @@ Report bugs, suggest features, improve documentation, or open a pull request on 
 
 ## Where can I get help or report a bug?
 
-Open an issue on the package's GitHub repository, or ask in our [Discord](https://discord.gg/XQG9RhvEvf) community. You can also reach us through the [Contact](/contact) page.
+Open an issue on the package's GitHub repository, or ask in [GitHub Discussions](https://github.com/orgs/Pharaonic/discussions). For a quick chat, join our [Discord](https://discord.gg/XQG9RhvEvf). You can also reach us through the [Contact](/contact) page.

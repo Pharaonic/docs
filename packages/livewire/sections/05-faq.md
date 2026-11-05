@@ -20,4 +20,4 @@ Each package installs with a single Composer command, `composer require pharaoni
 
 ## How do I get help with a {technology.name} package?
 
-Open an issue on the package's GitHub repository, ask in the [Pharaonic Discord](https://discord.gg/XQG9RhvEvf), or [contact us](/contact).
+Open an issue on the package's GitHub repository, ask in [GitHub Discussions](https://github.com/orgs/Pharaonic/discussions), chat with us on [Discord](https://discord.gg/XQG9RhvEvf), or [contact us](/contact).

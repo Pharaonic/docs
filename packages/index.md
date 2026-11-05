@@ -1,7 +1,8 @@
 ---
 action:
-  label: Join Discord
-  href: https://discord.gg/XQG9RhvEvf
+  label: Community
+  href: https://github.com/orgs/Pharaonic/discussions
+  icon: chat
 
 views: components.packages
 

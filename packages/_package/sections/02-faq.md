@@ -28,4 +28,4 @@ Read the [{package.name} documentation]({package.docsUrl}) for setup, configurat
 
 ## How do I report a bug or contribute to {package.name}?
 
-Open an issue or a pull request on [GitHub]({package.githubUrl}), or ask in the [Pharaonic Discord](https://discord.gg/XQG9RhvEvf).
+Open an issue or a pull request on [GitHub]({package.githubUrl}), ask in [GitHub Discussions](https://github.com/orgs/Pharaonic/discussions), or chat with us on [Discord](https://discord.gg/XQG9RhvEvf).
