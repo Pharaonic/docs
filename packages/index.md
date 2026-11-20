@@ -13,7 +13,7 @@ breadcrumbs:
 
 seo:
   title: PHP Packages - Composer Libraries | Pharaonic
-  description: Open-source {stats.technologyList} packages by Pharaonic: focused Composer libraries, tested on every PHP version they support and documented for every line.
+  description: "Open-source {stats.technologyList} packages by Pharaonic: focused Composer libraries, tested on every PHP version they support and documented for every line."
   keywords: Pharaonic packages, PHP packages, Laravel packages, Composer libraries
   author: Pharaonic
   images:
