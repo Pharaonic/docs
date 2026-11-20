@@ -40,7 +40,7 @@ labels:
 contributors:
   title: Contributors
   subtitle: Amazing people who made this package possible
-  text: "This package wouldn't exist without the contributions of our amazing community. A huge thank you to everyone who has helped improve {package.name}!"
+  text: "This package wouldn't exist without the contributions of our amazing community. A huge thank you to everyone who has helped improve {package.fullName}!"
   # all: View All Contributors on GitHub
   contributions: "{count} contributions"
   contribution: "{count} contribution"
@@ -50,11 +50,11 @@ contributors:
   team: Meet the Team
 
 seo:
-  title: "{package.name} Documentation ({versionLabel}) | Pharaonic"
+  title: "{package.fullName} Documentation ({versionLabel}) | Pharaonic"
   description:
-    - "{package.name} {versionLabel} documentation: {card.description}"
+    - "{package.fullName} {versionLabel} documentation: {card.description}"
     - "{card.description}"
-  keywords: "{package.name} documentation, {package.composer}, {technology.name} package docs, Pharaonic"
+  keywords: "{package.fullName} documentation, {package.composer}, {technology.name} package docs, Pharaonic"
   author: Pharaonic
   images:
     - "{package.cover}"
@@ -66,9 +66,9 @@ seo:
 
 schema:
   "@type": TechArticle
-  headline: "{package.name} Documentation ({versionLabel})"
+  headline: "{package.fullName} Documentation ({versionLabel})"
   image: "{package.cover}"
-  description: "{package.name} {versionLabel} documentation: {card.description}"
+  description: "{package.fullName} {versionLabel} documentation: {card.description}"
   version: "{version}"
   dateModified: "{package.updatedAt}"
   inLanguage: en
@@ -81,7 +81,7 @@ schema:
   about:
     "@type": SoftwareSourceCode
     "@id": "{package.url}#software-source-code"
-    name: "{package.name}"
+    name: "{package.fullName}"
     url: "{package.url}"
     codeRepository: "{package.githubUrl}"
     programmingLanguage: PHP
