@@ -23,7 +23,7 @@ Current lines support PHP 8.1 – 8.5; each package lists the exact range for ev
 
 ## Which Laravel versions are supported?
 
-Laravel packages support Laravel 6.0 and above. Each package's page lists the exact Laravel versions it supports.
+Each Laravel package has a line per Laravel major it supports, from its first one up to Laravel 13. A package's page lists every line with the PHP and Laravel versions that line's newest release needs.
 
 ## How can I contribute?
 
