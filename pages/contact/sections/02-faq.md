@@ -7,9 +7,9 @@ subtitle: Quick answers to common questions
 
 Simply run `composer require pharaonic/package-name` in your Laravel project. Check the documentation for specific package instructions.
 
-## What's your average response time?
+## How quickly will you reply?
 
-We typically respond within 24-48 hours. For urgent issues, mention it's urgent in your GitHub issue, discussion, or Discord message and we'll prioritize it.
+Pharaonic is maintained by a small team, so there's no guaranteed response time. GitHub issues and Discussions are where questions get answered and tracked; Discord is best for a quick question.
 
 ## Can I request a custom package?
 

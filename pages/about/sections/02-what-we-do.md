@@ -7,7 +7,7 @@ founder:
   role: Founder & Lead Developer
   alias: Known as Raggi
   image: /assets/raggi-pic.jpeg
-  bio: Creator of Pharaonic. Passionate about building elegant solutions that empower developers worldwide to build better applications faster.
+  bio: Started Pharaonic in 2020 and maintains its packages, their release lines and this site.
   socials:
     - icon: github
       label: Moamen Eltouny on GitHub
@@ -23,8 +23,8 @@ founder:
       href: https://discord.com/users/958249021812654100
 ---
 
-**Pharaonic** site contains a variety of packages and services for the programming field. Our main goal is to **help every developer around the world** finish their project as quickly as possible and with minimal effort.
+**Pharaonic** is a collection of open-source {stats.technologyList} packages. Each one solves a single, common problem, such as slugs, translations, uploads or Hijri dates, so you can spend your time on your own application.
 
-This site was established in **2020** by **Moamen Eltouny (Raggi)**, and this project aims to provide packages and services for developers at all levels, from **beginners to professionals**.
+**Moamen Eltouny (Raggi)** started Pharaonic in **2020** and still maintains it, with help from the contributors credited on every package they worked on.
 
-We are always honored by your assistance, so if you find you have an idea for a package or service that will save the developer a lot of time and effort, **do not hesitate to contact us**.
+Have an idea for a package that would save developers time? [Get in touch](/contact).

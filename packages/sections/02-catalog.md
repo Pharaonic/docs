@@ -1,7 +1,7 @@
 ---
 view: components.packages.catalog
 badge: Browse the Catalog
-title: Curated Packages, Zero Bloat
+title: One Problem per Package
 filter: technology
 labels:
   filterLabel: Technology
@@ -18,4 +18,4 @@ labels:
   packagist: "{name} on Packagist"
 ---
 
-Filter by technology to find a package. Every library is linted, tested, and benchmarked before release.
+Search or filter to find a package. Each one is tested on every PHP version it supports.
