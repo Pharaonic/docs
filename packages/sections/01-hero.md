@@ -1,7 +1,7 @@
 ---
 view: components.packages.hero
 badge: Composer Libraries, Crafted for Humans
-title: Laravel, Livewire, Filament & PHP
+title: "{stats.technologyList}"
 highlight: Packages
 fullHeight: true
 buttons:

@@ -1,7 +1,7 @@
 ---
 # The /llms.txt and /llms-full.txt files (https://llmstxt.org), read by AI assistants and answer engines.
 title: Pharaonic
-summary: Pharaonic is an open-source collection of {stats.packages} free, {stats.licenses}-licensed Laravel, Livewire, Filament and PHP packages, founded in 2020 by Moamen Eltouny (Raggi). Each package solves one common problem and installs with a single Composer command.
+summary: Pharaonic is an open-source collection of {stats.packages} free, {stats.licenses}-licensed {stats.technologyList} packages, founded in 2020 by Moamen Eltouny (Raggi). Each package solves one common problem and installs with a single Composer command.
 
 facts:
   - "Every package is free and open source under {stats.licenseText}, for personal and commercial use."

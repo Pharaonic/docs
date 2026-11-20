@@ -21,4 +21,4 @@ stats:
     label: Experience Years
 ---
 
-We craft powerful, elegant solutions that empower developers to build extraordinary applications with Laravel, Livewire, Filament and PHP.
+We craft powerful, elegant solutions that empower developers to build extraordinary applications with {stats.technologyList}.

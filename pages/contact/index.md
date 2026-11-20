@@ -6,7 +6,7 @@ action:
 
 seo:
   title: Contact Pharaonic - Get in Touch
-  description: Contact Pharaonic for questions, feedback, contributions, partnerships, or support with our open-source Laravel, Livewire, Filament and PHP packages.
+  description: Contact Pharaonic for questions, feedback, contributions, partnerships, or support with our open-source {stats.technologyList} packages.
   author: Pharaonic
   images:
     - url:/assets/og-image.jpg
@@ -22,7 +22,6 @@ seo:
     - PHP packages
     - Laravel packages
     - Livewire packages
-    - Filament packages
   openGraph:
     type: website
     siteName: Pharaonic
@@ -34,7 +33,7 @@ schema:
   "@id": route:contact#webpage
   url: route:contact
   name: Contact Pharaonic
-  description: Contact Pharaonic for questions, feedback, contributions, partnerships, and support related to our open-source Laravel, Livewire, Filament and PHP packages and services.
+  description: Contact Pharaonic for questions, feedback, contributions, partnerships, and support related to our open-source {stats.technologyList} packages and services.
   keywords:
     - Pharaonic
     - Contact

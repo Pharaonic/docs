@@ -13,7 +13,7 @@ breadcrumbs:
 
 seo:
   title: PHP Packages - Composer Libraries | Pharaonic
-  description: Production-ready Laravel, Livewire, Filament and PHP packages by Pharaonic. Battle-tested Composer libraries with great DX, full docs, and support.
+  description: Production-ready {stats.technologyList} packages by Pharaonic. Battle-tested Composer libraries with great DX, full docs, and support.
   keywords: Pharaonic packages, PHP packages, Laravel packages, Composer libraries
   author: Pharaonic
   images:
@@ -28,7 +28,7 @@ schema:
   "@type": CollectionPage
   "@id": route:packages.index#webpage
   url: route:packages.index
-  name: Laravel, Livewire, Filament & PHP Packages
+  name: "{stats.technologyList} Packages"
   isPartOf:
     "@id": url:/#website
   publisher:

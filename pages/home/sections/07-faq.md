@@ -7,7 +7,7 @@ subtitle: Quick answers about Pharaonic's packages, licensing, and support.
 
 ## What is Pharaonic?
 
-Pharaonic is an open-source collection of {stats.packages} Laravel, Livewire, Filament and PHP packages, founded in 2020 by Moamen Eltouny (Raggi). Each package solves one common problem (files, images, slugs, translations, settings, Hijri dates, and more), so you can finish your project faster with less code.
+Pharaonic is an open-source collection of {stats.packages} {stats.technologyList} packages, founded in 2020 by Moamen Eltouny (Raggi). Each package solves one common problem (files, images, slugs, translations, settings, Hijri dates, and more), so you can finish your project faster with less code.
 
 ## Are all packages free to use?
 
@@ -19,7 +19,7 @@ Every package installs with a single Composer command, for example `composer req
 
 ## Which PHP versions are supported?
 
-Packages support PHP 8.0 and above. Each package's page lists its exact PHP requirement.
+Current lines support PHP 8.1 – 8.5; each package lists the exact range for every line it maintains.
 
 ## Which Laravel versions are supported?
 
