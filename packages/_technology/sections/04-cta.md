@@ -13,4 +13,4 @@ buttons:
     external: true
 ---
 
-Browse every Pharaonic package across Laravel, Livewire, Filament and PHP.
+Browse every Pharaonic package.

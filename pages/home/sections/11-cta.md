@@ -11,4 +11,4 @@ buttons:
     iconBefore: github
 ---
 
-Join thousands of developers who trust Pharaonic packages for their projects.
+Every package is free, documented and open to contributions.

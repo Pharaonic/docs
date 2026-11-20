@@ -24,4 +24,4 @@ meta:
   - 100% open source
 ---
 
-Laravel, Livewire, Filament and PHP packages engineered to help developers build faster.
+Focused packages for {stats.technologyList} developers. Each one solves one common problem (slugs, translations, uploads, Hijri dates, settings) and is documented for every supported version.
