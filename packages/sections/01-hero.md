@@ -25,4 +25,4 @@ tiles:
     label: Free & Open Source
 ---
 
-Production-ready packages that upgrade your developer experience. Clean APIs, first-class documentation, semantic versioning, and long-term support.
+Focused packages with typed APIs, documentation for every supported line, and semantic versioning. Every line from a package's first one up is maintained.

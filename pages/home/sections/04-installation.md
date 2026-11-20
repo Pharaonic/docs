@@ -6,14 +6,14 @@ terminal:
   command: composer require pharaonic/laravel-executor
 features:
   - icon: bolt
-    title: Lightning Fast
-    text: Optimized for performance with minimal overhead
+    title: One Command
+    text: Each package installs with composer require; its page shows the exact command
   - icon: check-circle
-    title: Well Tested
-    text: Comprehensive test coverage for reliability
+    title: Tested on Every Supported PHP
+    text: Each change runs the tests on every PHP version the line supports
   - icon: book
-    title: Great Docs
-    text: Clear documentation with examples
+    title: Docs for Every Line
+    text: Every maintained line has its own documentation with examples
 ---
 
 Install any package using Composer. It's that simple.

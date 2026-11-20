@@ -18,7 +18,7 @@ stats:
   - value: "{stats.contributors}"
     label: Contributors
   - value: "{stats.years}"
-    label: Experience Years
+    label: Years Open Source
 ---
 
-We craft powerful, elegant solutions that empower developers to build extraordinary applications with {stats.technologyList}.
+Open-source {stats.technologyList} packages, each solving one common problem and documented for every supported version.
